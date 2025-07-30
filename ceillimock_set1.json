@@ -1,113 +1,113 @@
 [
   {
     "questionNumber": 1,
-    "question": "What is an investment-linked policy?",
+    "question": "What are the factors that have contributed to the steady growth of the life insurance industry in Malaysia since 2000?\nI. The Malaysian government granting more flexibility to life insurance companies to run business operations based on their own management philosophies and at their own prudent discretion\nII. Malaysia’s dynamic economic growth experience\nIII. Life insurers designing and offering customer-centric plans\nIV. The introduction of investment-linked insurance and the steady growth of this product",
     "options": {
-      "A": "A participating whole life policy",
-      "B": "A capital and returns guaranteed policy",
-      "C": "An endowment policy only",
-      "D": "A plan that offers clients’ coverage and investment returns"
+      "A": "I and II",
+      "B": "II and III",
+      "C": "III and IV",
+      "D": "II"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 2,
-    "question": "All the following statements are TRUE EXCEPT:",
+    "question": "Which of the following is the correct description of an investment-linked life policy?",
     "options": {
-      "A": "The investment-linked policy is directly linked to investment performance",
-      "B": "Once the policy is in-force, the clients’ investments will grow steadily",
-      "C": "Fund managers will make sure that the investment-linked policy is shielded from market fluctuations",
-      "D": "The investment-linked policy only provides coverage and nothing else"
+      "A": "A participating policy offering lifetime coverage",
+      "B": "A capital guaranteed policy",
+      "C": "An endowment policy which provides minimum returns",
+      "D": "A policy offering protection while also investing in funds which form the basis for returns to the policy owner"
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 3,
-    "question": "Investment-linked Insurance policy is named as the following around the world EXCEPT:",
+    "question": "An investment-linked life insurance policy is also known as the following in some parts of the world:\nI. Mutual fund-linked policy\nII. Unit-linked policy\nIII. Variable life policy\nIV. Universal life policy",
     "options": {
-      "A": "Mutual fund-linked policy",
-      "B": "Unit-linked policy",
-      "C": "Variable life policy",
-      "D": "Takaful investment-linked life"
+      "A": "I, II, III and IV",
+      "B": "I, II and III",
+      "C": "II, III and IV",
+      "D": "II and III"
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 4,
-    "question": "“... is designed to shift the uncertainties of investment gains or losses to the policy holders...” The excerpt describes what of the following accurately?",
+    "question": "Investment-linked funds are managed by:\nI. The insurer’s own professional managers in its internal investment department\nII. Fund managers/fund houses appointed by the insurer through outsourcing\nIII. Outsourcing to the funds of unit trust companies since investment-linked funds are similar to unit trust funds\nIV. The insurer’s board of directors who can make special decisions on the types of investment vehicles to offer to policy owner",
     "options": {
-      "A": "Policyholders who choose to take investment-linked policies must realize that they are also responsible to monitor the performance of their policy to ensure a reasonable return",
-      "B": "The chances that the policy values going to zero is impossible because the Fund Managers, companies and agents will ensure that the policy is profitable at all times",
-      "C": "Insurance companies, fund managers will wash their hands off the policy once the policy is taken and leave it solely to the agents and policy holders to monitor it",
-      "D": "Agents are responsible to the clients’ only and must ensure that they monitor the policy at all times"
+      "A": "I, II, III and IV",
+      "B": "I",
+      "C": "I and II",
+      "D": "I and IV"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 5,
-    "question": "An investment-linked plan has the following features:\nI. Provide cover for death and total permanent disability.\nII. Participate in investments managed by the insurer.\nIII. Can provide a good return if monitored well.\nIV. Largely depends on the clients’ ability to be good at investing in equities market.",
+    "question": "Since investment-linked insurance has an investment element, a prospective policy owner is allowed to opt for:\nI. A nominal amount of sum assured of his selection\nII. No life protection at all\nIII. At least the minimum amount of sum assured according to age, basic premium paid and a formula set by the relevant regulator\nIV. The sum assured offered by the insurer concerned based on its internal underwriting guidelines in relation to the financial status and circumstances of the intended policy owner",
     "options": {
-      "A": "I,II and IV",
-      "B": "I,III and IV",
-      "C": "II,III and IV",
-      "D": "I,II and III"
+      "A": "I",
+      "B": "I and II",
+      "C": "III",
+      "D": "IV"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 6,
-    "question": "An agent owes the client a moral obligation to",
+    "question": "Which of the following statements are correct?\nI. Policy owners of investment-linked plans should be made to understand that they wholly bear the gains or losses from the investment portion of their policies\nII. As responsible corporations, life insurers are obliged to be partly responsible for any drastic drop in prices of funds under their custody; thus, they have to bear part of the losses suffered by policy owners if such incidents occur\nIII. For investment-linked policies, an individual can invest in a diversified portfolio with a sum as low RM1,200 per year. This is possible as the overall collected premiums contributed by investment-linked policy owners form a sufficiently large pool for spreading over varied stocks or securities in the market\nIV. An average income earner may not possess ready sufficient liquidity to invest in a spread of assets if he wants to do it in the open market on his own",
     "options": {
-      "A": "Educate a client to be an expert investor",
-      "B": "To recommend specific funds to invest in",
-      "C": "Educate clients’ with some basic and sound investment principles",
-      "D": "Make decisions on behalf of the client"
+      "A": "I, III and IV",
+      "B": "II and III",
+      "C": "I and II",
+      "D": "I, II, III and IV"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 7,
-    "question": "What considerations must be taken before making an investment decision?\nI. Investment objectives, Availability of Funds, Diversification.\nII. Risk or Security, Promised Money, Tax issues.\nIII. Investment Horizon, Performance of Investment, Accessibility of Funds.\nIV. Economic Reports, Insurance Companies Asset base, Government Regulations.",
+    "question": "Which options are open to policy owners of a regular premium investment-linked plan?\nI. A policy owner may opt for higher sum assured than the minimum amount stipulated by the Sum Assured Multiple rule\nII. A policy owner can pay top-up premium to accelerate the accumulation of the account value in the policy\nIII. A prospective policy owner can apply to combine a single premium plan with a regular premium plan into one policy\nIV. A prospective policy owner can select the death benefit based on either the sum assured or the account value, whichever is higher",
     "options": {
-      "A": "I and III",
-      "B": "I and II",
-      "C": "I and IV",
-      "D": "III and IV"
+      "A": "I and II",
+      "B": "I, II and III",
+      "C": "II and III",
+      "D": "I, III and IV"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 8,
-    "question": "Clients want to invest:\nI. To lead a comfortable lifestyle\nII. To be comfortable during retirement\nIII. To amass great wealth\nIV. To provide adequate funding for their children’s needs",
+    "question": "Which of the following statements are correct?\nI. Top-up premiums can either be paid on a regular basis or at any time\nII. Most insurers impose a minimum amount for both regular top-ups and ad hoc top-ups\nIII. Most insurers allow ad hoc top-ups once a year and impose a maximum amount\nIV. An upfront charge, normally around 5 per cent, is deducted from each top-up",
     "options": {
-      "A": "I,III and IV",
-      "B": "I,II and III",
-      "C": "I,II and IV",
-      "D": "II,III and IV"
+      "A": "II, III and IV",
+      "B": "I, II and IV",
+      "C": "I and IV",
+      "D": "I, II, III and IV"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 9,
-    "question": "What must an agent do to ensure the client is given proper advice on investment?",
+    "question": "A female, aged 30 years, has budgeted to set aside RM3,000 a year for a basic regular premium investment-linked plan with a unit-deducting hospitalization rider. According to the SAM formula, the multiple factor for her age is 50 times. How would you calculate the minimum sum assured for the basic plan?",
     "options": {
-      "A": "Ensure that there is a right combination of objectives and make sure proper risk analysis is done",
-      "B": "Show the wide selection of investment for the client to choose from",
-      "C": "Motivate the client to borrow money to invest in guaranteed investment vehicles",
-      "D": "Ensure that the advice is advantageous to the agent and the insurance company"
+      "A": "RM3,000 minus the notional premium for the rider & multiply by 50 times",
+      "B": "RM3,000 multiply by 50 times",
+      "C": "RM3,000 multiply by 55 times",
+      "D": "RM3,000 minus the notional premium & then multiply by 55 times"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 10,
-    "question": "Why is diversification in investment recommended?\nI. So as not to be exposed in one particular class of investments\nII. To even out market fluctuations and not suffer too much losses\nIII. To ensure the investments will always do well\nIV. To ensure that they can realize their financial objectives faster",
+    "question": "Which of the statements below are correct?\nI. All life insurers impose an early partial withdrawal charge and an early surrender charge\nII. High partial withdrawals may cause the future account value to be insufficient to cover the higher cost of insurance at older ages. Therefore, it is prudent for a policy owner to make ad hoc top-ups to replenish the units and the account value\nIII. Depending on the practices instituted by individual life insurers, all fund switches may be processed free of charge, or be free for the first switch or first few switches within a policy year and a fee is charged for subsequent switches\nIV. The investment risk profile of a young investor or policy owner may likely change from the aggressive category to the conservative category as he advances in age; hence, he may want to progressively shift more of his equity assets to fixed income or bond fund until he gets close to retirement age",
     "options": {
-      "A": "I and III",
-      "B": "I and II",
-      "C": "II and IV",
-      "D": "III and IV"
+      "A": "I, II, III and IV",
+      "B": "II and III",
+      "C": "I, III and IV",
+      "D": "II, III and IV"
     },
-    "answer": ""
+    "answer": "D"
   },
     {
         "questionNumber": 11,
