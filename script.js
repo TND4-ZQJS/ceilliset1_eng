@@ -138,6 +138,15 @@ function showResumeBanner(savedQ) {
     Resumed from your last session at Question ${savedQ}.
     <span class="close-btn" onclick="dismissResumeBanner()">×</span>
   `;
+
+  // ⏱ Auto-hide after 5 seconds
+  setTimeout(() => {
+    banner.classList.add('fade-out');
+    setTimeout(() => {
+      banner.style.display = 'none';
+      banner.classList.remove('fade-out'); // Reset for future use
+    }, 500); // match fade-out duration in CSS
+  }, 5000); // wait 5 seconds before fading out
 }
 
 // ✅ Close banner handler
