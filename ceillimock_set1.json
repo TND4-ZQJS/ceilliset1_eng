@@ -109,116 +109,116 @@
     },
     "answer": "D"
   },
-    {
-        "questionNumber": 11,
-        "question": "The following instruments fall under corporate bonds EXCEPT:",
-        "options": {
-            "A": "Debenture stocks",
-            "B": "Loan stocks",
-            "C": "Convertible stocks",
-            "D": "Warrants"
-        },
-        "answer": "D"
+  {
+    "questionNumber": 11,
+    "question": "Identify the correct statements from those given below:\nI. The free-look period is 15 days commencing from the date of delivery of policy contract to the policy owner\nII. The no-lapse guarantee clause stipulates that as long as premiums are paid without fail by the grace period and there was no previous premium holiday or partial withdrawal, the regular premium investment-linked policy will never lapse over the entire policy tenure although the account value may be insufficient to cover the cost of insurance at any point in time\nIII. The no-lapse guarantee clause stipulates the regular premium investment-linked policy will not lapse in the first few years (e.g. 2 years) even though the account value is not sufficient to cover the cost of insurance, provided:\n- All premiums were paid during the period\n- No premium holiday was exercised during the period\n- There was no partial withdrawal or fund switching during the period\nIV. As the basic death benefit of a regular premium investment-linked policy is basic sum assured plus account value, the life insurer will continue to deduct the cost of insurance for the basic coverage as long as the policy remains in force",
+    "options": {
+      "A": "I, III and IV",
+      "B": "II, III and IV",
+      "C": "II and III",
+      "D": "I, II, III and IV"
     },
-    {
-        "questionNumber": 12,
-        "question": "What is the disadvantage of investing in unit trusts?",
-        "options": {
-            "A": "Unit trusts have lower risk compared to shares",
-            "B": "They are managed by professional investment teams",
-            "C": "Extra costs and charges are included in this vehicle",
-            "D": "Income dividend can be reinvested"
-        },
-        "answer": "C"
+    "answer": ""
+  },
+  {
+    "questionNumber": 12,
+    "question": "Select the correct statements from the following:\nI. The Dollar Cost Averaging phenomenon leverages the long-term or the acquisition of more fund units when prices are down and the appreciation of units already acquired when prices go up\nII. Some assets in a fund may perform well in a given short period while some may not, but the overall impact is the averaging effect due to the spreading out of risk. With prudent management by fund managers, the unit price is likely to be higher in the longer run\nIII. The maximum tax relief for a qualified regular premium investment-linked medical plan and an education plan is RM3,000 a year. If a policy owner has both, the combined limit is also RM3,000\nIV. Whether a policy owner has a qualified regular premium investment-linked medical plan or an education plan, or both, he qualifies for a tax relief of up to RM6,000 a year",
+    "options": {
+      "A": "I, II and IV",
+      "B": "I, II and III",
+      "C": "I and III",
+      "D": "II and IV"
     },
-    {
-        "questionNumber": 13,
-        "question": "Sukuk bonds have the following characteristics EXCEPT:",
-        "options": {
-            "A": "They are issued by pooled funds",
-            "B": "They adhere to strict Syariah principles",
-            "C": "They can be guaranteed or not by their originators",
-            "D": "They can only be bought by Banks and Financial Institutions"
-        },
-        "answer": "D"
+    "answer": ""
+  },
+  {
+    "questionNumber": 13,
+    "question": "Single premium investment-linked insurance is said to be more inclined towards investment than protection because",
+    "options": {
+      "A": "Generally, about 95% of the single premium is allocated for investment in fund units",
+      "B": "The policy owner has the discretion to opt out of any protection coverage so that no cost of insurance will be deducted from the account value",
+      "C": "The usual sum assured is 25 per cent above the single premium outlay and may be lowered to 5 per cent above the premium for older age groups, i.e. RM125,000 for SP of RM100,000, RM105,000 for senior ages with the same premium",
+      "D": "Once the account value exceeds the basic sum assured, the death benefit will be the account value, not inclusive of the sum assured"
     },
-    {
-        "questionNumber": 14,
-        "question": "Mr. Indran wants to invest his money in a conservative steady income generating investment vehicles. Your suggestion to him would be to put his money in:\nI. Treasury Bills, Sukuk Bonds, REITs\nII. Preference Shares, Warrants, Derivatives\nIII. Fixed Income Securities, Government Bonds, Corporate Bonds\nIV. Commodities, Futures, REITs",
-        "options": {
-            "A": "I,II,III and IV",
-            "B": "I and III",
-            "C": "II and III",
-            "D": "III and IV"
-        },
-        "answer": "B"
+    "answer": ""
+  },
+  {
+    "questionNumber": 14,
+    "question": "Mrs. A, aged 45, signs up for a single premium investment-linked plan by paying an initial RM100,000. Six months later, she pays another RM100,000 as top-up. The total sum assured in her policy after payment of the top-up is",
+    "options": {
+      "A": "RM250,000",
+      "B": "RM125,000",
+      "C": "RM205,000",
+      "D": "RM210,000"
     },
-    {
-        "questionNumber": 15,
-        "question": "Adam lives in the UK. He was impressed by the investment-linked life insurance policy that you have bought in Malaysia. He is now back to London and wants to buy a similar plan. What plan should he buy from his agent?",
-        "options": {
-            "A": "Investment-Linked Life Insurance Plan",
-            "B": "Universal-Variable Life Insurance Plan",
-            "C": "Variable Life Insurance Plan",
-            "D": "Unit-Linked Life Insurance Plan"
-        },
-        "answer": "D"
+    "answer": ""
+  },
+  {
+    "questionNumber": 15,
+    "question": "Which of the statements below are correct regarding single premium investment-linked insurance?\nI. Most insurers set their minimum basic single premium as ranging from RM5,000 to RM20,000, depending on product design\nII. All insurers set the minimum basic single premium at RM5,000\nIII. Top-up premiums, if any, also bear the same normal upfront or unallocated premium charge ratio of around 5% as the basic single premium\nIV. Cost of insurance will be deducted regardless of whether the account value is above or below the basic sum assured at any point in time",
+    "options": {
+      "A": "I, III and IV",
+      "B": "I and III",
+      "C": "II and IV",
+      "D": "II, III and IV"
     },
-    {
-        "questionNumber": 16,
-        "question": "The takaful investment-linked life insurance plan was developed due to…",
-        "options": {
-            "A": "Meeting the market demands and financial demands",
-            "B": "The response to the religious principles and practices of the Muslims",
-            "C": "The fact that there were no products suitable for Muslims in Malaysia before this",
-            "D": "Tap into a vast and very lucrative insurance market"
-        },
-        "answer": "B"
+    "answer": ""
+  },
+  {
+    "questionNumber": 16,
+    "question": "Which statement/s relate(s) to the application of cost of insurance (COI) in single premium investment-linked insurance?\nI. COI is based on the sum assured or account value, whichever is higher\nII. When the account value of a single premium investment-linked policy is still below the sum assured, the shortfall gap between the two levels is called sum at risk\nIII. Deduction of COI is based on the shortfall amount from the account value level to the sum assured level\nIV. COI is based on the difference between the sum assured and account value at any point in time",
+    "options": {
+      "A": "I",
+      "B": "III",
+      "C": "II and III",
+      "D": "IV"
     },
-    {
-        "questionNumber": 17,
-        "question": "All the following statements are false EXCEPT:",
-        "options": {
-            "A": "Takaful Insurance plans can only be sold by Islamic insurance companies",
-            "B": "All insurance companies can develop and sell Takaful products as they wish",
-            "C": "Takaful insurance products must adhere to the Syariah law requirements",
-            "D": "Takaful insurance can only be sold to and purchased by Muslims in Malaysia"
-        },
-        "answer": "C"
+    "answer": ""
+  },
+  {
+    "questionNumber": 17,
+    "question": "Top-ups for single premium investment-linked plans are encouraged when\nI. The market is on the upturn and unit prices are rising\nII. A market downturn sets in not long after policy inception, thus causing the sum at risk to prolong longer than expected, based on the initial premium outlay\nIII. The nation is experiencing a period of strong economic or GDP growth\nIV. The policy owner believes in the impact of Dollar Cost Averaging and wants to leverage that to boost the account value instead of relying on just one single outlay",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I and III",
+      "C": "II and IV",
+      "D": "I, II and III"
     },
-    {
-        "questionNumber": 18,
-        "question": "During a market crash, which fund suffers the biggest fall?",
-        "options": {
-            "A": "Funds that mainly invest in cash instruments like fixed deposits, treasury bills, government bonds",
-            "B": "Funds that invest in overseas properties, REITs and growth stocks",
-            "C": "Funds that invest in fixed income funds, balanced funds and Sukuk Bonds",
-            "D": "Funds that invest in equities market both locally and overseas"
-        },
-        "answer": "D"
+    "answer": ""
+  },
+  {
+    "questionNumber": 18,
+    "question": "The few mechanisms and features of single premium investment-linked plans which differ from regular premium investment-linked plans are:\nI. The sum assured formula for single premium plans is different than that for regular premium plans\nII. The death benefit formula for single premium plans is not guided by the same minimum Sum Assured Multiple rule applicable to regular premium plans\nIII. The allocated premium ratio for single premium plans is different from that for regular premium plans\nIV. While the policy is kept in force, the cost of insurance deductions for single premium plans may not be continuous because the formula is based on sum at risk, unlike regular premium plans which are based on sum assured",
+    "options": {
+      "A": "I and IV",
+      "B": "I, II, III and IV",
+      "C": "II, III and IV",
+      "D": "I, III and IV"
     },
-    {
-        "questionNumber": 19,
-        "question": "Funds that basically invest in government, corporate and fixed income instruments seeking income producing characteristics are known as:",
-        "options": {
-            "A": "Balanced fund",
-            "B": "Cash fund",
-            "C": "Bond fund",
-            "D": "Specialized fund"
-        },
-        "answer": "C"
+    "answer": ""
+  },
+  {
+    "questionNumber": 19,
+    "question": "The benefits of an investment-linked policy are:\nI. It provides access to a diversified investment portfolio. Thus, it has better risk characteristics than a non-diversified portfolio\nII. It offers flexibilities\nIII. Fixed nominal charges are levied on the policy\nIV. The life insurer insulates the policy owner against market risks",
+    "options": {
+      "A": "I and II",
+      "B": "II and IV",
+      "C": "I and III",
+      "D": "I, II, III and IV"
     },
-    {
-        "questionNumber": 20,
-        "question": "Switching of funds happen in unit trust and investment-linked products. Switching is advantageous because…",
-        "options": {
-            "A": "It allows the smoothening process of uncertain market conditions",
-            "B": "It allows the clients to make huge profits whence switches are done",
-            "C": "It is a method to safeguard your principal invested",
-            "D": "It is good because the client does not incur any charges related to constant switches"
-        },
-        "answer": "A"
+    "answer": ""
+  },
+  {
+    "questionNumber": 20,
+    "question": "When an investment-linked policy reaches maturity, the maturity value will be",
+    "options": {
+      "A": "The basic sum assured and the account value",
+      "B": "The account value",
+      "C": "The account value plus terminal/ maturity bonus",
+      "D": "The basic sum assured and the account value plus terminal/maturity bonus"
     },
+    "answer": ""
+  },
     {
         "questionNumber": 21,
         "question": "Rahim is a very cautious investor. He wants steady income and to safe-guard his principal amount invested. Where would you suggest he puts his money?\nI. Government, Corporate and Sukuk Bonds\nII. Fixed income instruments\nIII. Cash funds\nIV. Specialized funds",
