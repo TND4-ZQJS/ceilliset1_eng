@@ -474,7 +474,7 @@
   },
   {
     "questionNumber": 44,
-    "question": "The guidelines stipulated by the regulatory authority in allowing a life insurer to undertake unit splits for an investment-linked fund once a year is on the condition that “there is sustainable appreciation on net asset value (account value) over a six-month period preceding the split.” Which of the statements below is correct regarding the above statement?",
+    "question": "The guidelines stipulated by the regulatory authority in allowing a life insurer to undertake unit splits for an investment-linked fund once a year is on the condition that “there is sustainable appreciation on net asset value (account value) over a six-month period preceding the split.”\n Which of the statements below is correct regarding the above statement?",
     "options": {
       "A": "This means that appreciation over the 6-month period must be considered substantial by reasonable standard compared to the previous 6 months",
       "B": "This refers to an appreciation rate of at least 20 per cent at the end of the current 6 months over the previous 6 months",
@@ -487,10 +487,10 @@
     "questionNumber": 45,
     "question": "Since part of the initial premium of a regular premium investment-linked plan may already have been allocated and invested to acquire fund units by the time the customer decides not to take the plan within the 15 days free-look period, in what manner will the refund be made?",
     "options": {
-      "a": "Refund of full initial premium",
-      "b": "Refund of full initial premium minus policy fee and medical examination expenses (if any) incurred by the life insurer",
-      "c": "Refund of unallocated premium + net asset value (account value) at next valuation date + insurance charges and policy fee already deducted - medical examination fees if any",
-      "d": "Refund of unallocated premium + net asset value (account value) - cost of insurance and policy fee-medical examination fees if any"
+      "A": "Refund of full initial premium",
+      "B": "Refund of full initial premium minus policy fee and medical examination expenses (if any) incurred by the life insurer",
+      "C": "Refund of unallocated premium + net asset value (account value) at next valuation date + insurance charges and policy fee already deducted - medical examination fees if any",
+      "D": "Refund of unallocated premium + net asset value (account value) - cost of insurance and policy fee-medical examination fees if any"
     },
     "answer": "C"
   },
@@ -498,10 +498,10 @@
     "questionNumber": 46,
     "question": "Life insurers offering investment-linked insurance are obligated to provide certain fundamental “transparencies” as required by regulatory guidelines. These are:\nI. A separate Fund Fact Sheet for each of the funds\nII. A statement on the policy owner’s net asset value (account value) details at least once a year\nIII. A performance report on each fund of the policy owner at least once a year\nIV. Publishing of fund unit prices daily in at least one national English newspaper and one national Bahasa Malaysia newspaper, and on the insurer’s website",
     "options": {
-      "a": "II, III and IV",
-      "b": "I, II and III",
-      "c": "I and II",
-      "d": "I, II, III and IV"
+      "A": "II, III and IV",
+      "B": "I, II and III",
+      "C": "I and II",
+      "D": "I, II, III and IV"
     },
     "answer": "D"
   },
@@ -509,10 +509,10 @@
     "questionNumber": 47,
     "question": "Which of the statements below regarding sales illustrations for investment-linked plans are correct?\nI. The low and high projection for an equity fund should not be above 2% and 9% respectively for the first 20 years\nII. The low and high projection for a managed fund should not be above 3% and 8% respectively for the first 20 years\nIII. The low and high projections for a fixed income/bond fund should not be above 4% and 7% respectively for the first 20 years\nIV. For projected illustrations beyond 20 years, insurers must abide by the low scenario rates of 2%, 3% and 4% for equity funds, managed funds and bond funds respectively. The high scenario rates for the same three funds are 6%, 5.5% and 5% respectively",
     "options": {
-      "a": "I, II, III and IV",
-      "b": "I, II and III",
-      "c": "I and II",
-      "d": "II, III and IV"
+      "A": "I, II, III and IV",
+      "B": "I, II and III",
+      "C": "I and II",
+      "D": "II, III and IV"
     },
     "answer": "A"
   },
@@ -520,10 +520,10 @@
     "questionNumber": 48,
     "question": "What are the prerequisites for the launch of a new investment-linked fund?\nI. A minimum fund size can be set by the insurer\nII. The initial offer period shall not be more than 2 months from the date of launch\nIII. If the minimum fund size is not reached by the end of the initial offer period, the insurer can call off the fund and refund all premiums collected\nIV. The insurer will also have to pay interest or profit from the premiums collected during the initial offer period to the intended policy owners",
     "options": {
-      "a": "I and II",
-      "b": "I, III and IV",
-      "c": "I, II, III and IV",
-      "d": "I, II and III"
+      "A": "I and II",
+      "B": "I, III and IV",
+      "C": "I, II, III and IV",
+      "D": "I, II and III"
     },
     "answer": "C"
   },
@@ -531,10 +531,10 @@
     "questionNumber": 49,
     "question": "Which of the following statements are correct?\nI. Agents must utilize the sales materials and sales illustrations provided by their respective principal in their sales process\nII. Agents must utilize the sales materials and sales illustrations provided by their respective principal in their sales process. However, they may have the discretion to supplement these provided the facts do not deviate from those in the materials and illustrations provided by the principal\nIII. Only the signature of the intended new policy owner must be obtained on an insurer’s\nIV. Customer Fact-Find (CFF) form\nV. The sales intermediary must also sign the CFF form as witness after the intended new policy owner has signed",
     "options": {
-      "a": "I, II and IV",
-      "b": "I and III",
-      "c": "II and IV",
-      "d": "II and III"
+      "A": "I, II and IV",
+      "B": "I and III",
+      "C": "II and IV",
+      "D": "II and III"
     },
     "answer": "A"
   },
@@ -542,10 +542,10 @@
     "questionNumber": 50,
     "question": "As soon as a policy contract has been issued by a life insurer:\nI. The insurer is to mail (by registered mail) the policy contract to the correspondence address of the new policy owner. The registered mail slip should suffice as evidence that the contract has reached the policy owner\nII. The agent should deliver the policy contract without delay\nIII. The delivery process should entail the explanation of the contractual provisions and re-explaining the benefits. The agent then has to request the new policy owner to sign the delivery acknowledgement slip. Finally, the agent must return the signed acknowledgement slip to the insurer for recording and filing\nIV. If the new policy owner is unavailable at the first time of personal delivery by the agent, acknowledgement of receipt of the policy contract signed by a representative of the policy owner’s household or office shall be deemed valid. The agent does not need to follow up on this",
     "options": {
-      "a": "I and II",
-      "b": "II and III",
-      "c": "I, II, III and IV",
-      "d": "I, III and IV"
+      "A": "I and II",
+      "B": "II and III",
+      "C": "I, II, III and IV",
+      "D": "I, III and IV"
     },
     "answer": "B"
   },
@@ -553,10 +553,10 @@
     "questionNumber": 51,
     "question": "Agents who have sold investment-linked plans should conduct reviews with their clients ideally once a year. The purposes are:\nI. To provide updates on the performance progress of fund/s selected by the clients\nII. To discuss and ascertain whether the client’s financial objectives might have changed due to certain circumstances\nIII. To discuss and ascertain whether the original risk profile of the client has changed due to certain circumstances\nIV. To discuss alternative next steps where necessary",
     "options": {
-      "a": "I, II and IV",
-      "b": "II, III and IV",
-      "c": "I, II, III and IV",
-      "d": "III and IV"
+      "A": "I, II and IV",
+      "B": "II, III and IV",
+      "C": "I, II, III and IV",
+      "D": "III and IV"
     },
     "answer": "C"
   },
@@ -564,10 +564,10 @@
     "questionNumber": 52,
     "question": "The Code of Conduct pertaining to life insurance selling applies to:\nI. All agents\nII. All employees of life insurers\nIII. Insurance brokers\nIV. Agents and insurance brokers",
     "options": {
-      "a": "I, II, III and IV",
-      "b": "I and III",
-      "c": "I and II",
-      "d": "I, II, and IV"
+      "A": "I, II, III and IV",
+      "B": "I and III",
+      "C": "I and II",
+      "D": "I, II, and IV"
     },
     "answer": "C"
   },
@@ -575,10 +575,10 @@
     "questionNumber": 53,
     "question": "Which of the following statements are correct?\nI. Agents may design their own financial planning form to gather financial data and financial information of their prospective clients for analysis. However, the format must be approved by their principal\nII. The Customer Fact-Find form of a life insurer officially documents important facts concerning the financial data concerning a prospective policy owner and his family\nIII. Cancellation of a policy is allowed if the request by a new policy owner falls within the 15 days free-look period. The period commences from the date the policy contract is passed to the agent for delivery\nIV. The free-look period commences from the date the client signs the acknowledgement slip upon receiving the policy",
     "options": {
-      "a": "I, II and III",
-      "b": "I, II and IV",
-      "c": "II and IV",
-      "d": "I and IV"
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "II and IV",
+      "D": "I and IV"
     },
     "answer": "C"
   },
@@ -586,10 +586,10 @@
     "questionNumber": 54,
     "question": "The pertinent points highlighted by the Guidelines on Minimum Standards for Treating Customers Fairly (TCF) for agents’ attention are:\nI. Agents should inform customers fully about the key benefits, key risks and exclusions\nII. Agents must first be well-trained, especially involving the sale of investment and savings products\nIII. Agents must guide the customers as to what details are necessary to declare and what are not necessary so that the concise personal information captured in the application documents will cater for a smooth underwriting process\nIV. The product being proposed to a customer should be based on suitability, needs and risk appetite",
     "options": {
-      "a": "I, II and IV",
-      "b": "I, II and III",
-      "c": "II and III",
-      "d": "I, II, III and IV"
+      "A": "I, II and IV",
+      "B": "I, II and III",
+      "C": "II and III",
+      "D": "I, II, III and IV"
     },
     "answer": "A"
   },
@@ -597,10 +597,10 @@
     "questionNumber": 55,
     "question": "What is an \"internal unitized investment-linked fund\"?",
     "options": {
-      "a": "Part of the external unitized investment-linked fund",
-      "b": "Part of the stock market investment-linked fund",
-      "c": "Part of the life insurance fund of a life insurance company",
-      "d": "Part of the investment fund of a life insurance company"
+      "A": "Part of the external unitized investment-linked fund",
+      "B": "Part of the stock market investment-linked fund",
+      "C": "Part of the life insurance fund of a life insurance company",
+      "D": "Part of the investment fund of a life insurance company"
     },
     "answer": "C"
   },
@@ -608,10 +608,10 @@
     "questionNumber": 56,
     "question": "Choose the correct combination as far as the risk-returns relationship is concerned:\nI. The higher the risk, the higher the returns\nII. Slow growth in capital and income generally carry lower risk\nIII. High risk takers make cautious decisions\nIV. Risk is related to a match between rate of return and investor expectations",
     "options": {
-      "a": "I and II",
-      "b": "II and III",
-      "c": "I, II and III",
-      "d": "I, II and IV"
+      "A": "I and II",
+      "B": "II and III",
+      "C": "I, II and III",
+      "D": "I, II and IV"
     },
     "answer": "D"
   },
@@ -619,10 +619,10 @@
     "questionNumber": 57,
     "question": "Arrange the corporate bonds from the least risky to the most risky:",
     "options": {
-      "a": "Debentures, Convertible stock, and Loan stocks",
-      "b": "Loan stocks, Convertible stocks, and Debentures",
-      "c": "Debentures, Loan stocks, and Convertible stocks",
-      "d": "Loan stocks, Debentures, and Convertible stocks"
+      "A": "Debentures, Convertible stock, and Loan stocks",
+      "B": "Loan stocks, Convertible stocks, and Debentures",
+      "C": "Debentures, Loan stocks, and Convertible stocks",
+      "D": "Loan stocks, Debentures, and Convertible stocks"
     },
     "answer": "C"
   },
@@ -630,10 +630,10 @@
     "questionNumber": 58,
     "question": "The investment returns under an investment-linked life insurance policy…\nI. Are not guaranteed\nII. Are assured\nIII. Are linked to the performance of the investment fund managed by the life office\nIV. Fluctuate according to the rise and fall of market prices",
     "options": {
-      "a": "I, II and III",
-      "b": "I, II and IV",
-      "c": "I, III and IV",
-      "d": "II, III and IV"
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "I, III and IV",
+      "D": "II, III and IV"
     },
     "answer": "C"
   },
@@ -641,10 +641,10 @@
     "questionNumber": 59,
     "question": "In a volatile market, a policy owner may want to move part or all of his investment from the equity fund to a cash fund in order to protect the capital value if he thinks the stock market may face a downturn or even a crash. Such a move is called:",
     "options": {
-      "a": "Transfers",
-      "b": "Withdrawals",
-      "c": "Re-investments",
-      "d": "Switching"
+      "A": "Transfers",
+      "B": "Withdrawals",
+      "C": "Re-investments",
+      "D": "Switching"
     },
     "answer": "D"
   },
@@ -652,10 +652,10 @@
     "questionNumber": 60,
     "question": "Investment-linked life insurance allows:\nI. Policy owners to change the level of premium payment\nII. Single premium top-up\nIII. Change in the level of sum insured\nIV. Policy owners to decide how the fund managers should invest the funds",
     "options": {
-      "a": "I, II and IV",
-      "b": "I, III and IV",
-      "c": "I, II and III",
-      "d": "All of the above"
+      "A": "I, II and IV",
+      "B": "I, III and IV",
+      "C": "I, II and III",
+      "D": "All of the above"
     },
     "answer": "C"
   }
