@@ -29,7 +29,7 @@ function displayQuestion(num) {
     btn.className = 'option';
     btn.disabled = false;
 
-    const savedAnswer = localStorage.getItem(`${SET_KEY}answer_${num}`); // 🔧 set prefix
+    const savedAnswer = localStorage.getItem(`${SET_KEY}answer_${num}`);
     if (savedAnswer) {
       btn.disabled = true;
       btn.classList.add('disabled');
@@ -43,7 +43,7 @@ function displayQuestion(num) {
 
   document.getElementById('feedback').innerText = '';
   updateScoreDisplay();
-  localStorage.setItem(`${SET_KEY}last_question`, currentQuestion); // 🔧 Save last viewed question
+  localStorage.setItem(`${SET_KEY}last_question`, currentQuestion);
 }
 
 function checkAnswer(button, selected, correct) {
@@ -61,13 +61,13 @@ function checkAnswer(button, selected, correct) {
 
   document.getElementById('feedback').innerText = `Correct answer: ${correct}`;
 
-  const previous = localStorage.getItem(`${SET_KEY}answer_${currentQuestion}`); // 🔧
+  const previous = localStorage.getItem(`${SET_KEY}answer_${currentQuestion}`);
   if (!previous) {
     if (selected === correct) score++;
-    localStorage.setItem(`${SET_KEY}score`, score); // 🔧
+    localStorage.setItem(`${SET_KEY}score`, score);
   }
 
-  localStorage.setItem(`${SET_KEY}answer_${currentQuestion}`, selected); // 🔧
+  localStorage.setItem(`${SET_KEY}answer_${currentQuestion}`, selected);
   updateScoreDisplay();
 }
 
@@ -97,18 +97,18 @@ function goToQuestion() {
 
 function updateScoreDisplay() {
   const totalAnswered = questions.filter((_, i) =>
-    localStorage.getItem(`${SET_KEY}answer_${i + 1}`) // 🔧
+    localStorage.getItem(`${SET_KEY}answer_${i + 1}`)
   ).length;
   document.getElementById('score-display').innerText = `Score: ${score} / ${totalAnswered}`;
 }
 
 function loadProgress() {
-  const savedScore = localStorage.getItem(`${SET_KEY}score`); // 🔧
+  const savedScore = localStorage.getItem(`${SET_KEY}score`);
   if (savedScore !== null) {
     score = parseInt(savedScore);
   }
 
-  const lastSeen = localStorage.getItem(`${SET_KEY}last_question`); // 🔧
+  const lastSeen = localStorage.getItem(`${SET_KEY}last_question`);
   if (lastSeen) {
     currentQuestion = parseInt(lastSeen);
     showResumeBanner(currentQuestion);
@@ -118,33 +118,32 @@ function loadProgress() {
 function resetProgress() {
   if (confirm('Are you sure you want to clear all your answers and restart?')) {
     for (let i = 1; i <= questions.length; i++) {
-      localStorage.removeItem(`${SET_KEY}answer_${i}`); // 🔧
+      localStorage.removeItem(`${SET_KEY}answer_${i}`);
     }
-    localStorage.removeItem(`${SET_KEY}score`); // 🔧
-    localStorage.removeItem(`${SET_KEY}last_question`); // 🔧
+    localStorage.removeItem(`${SET_KEY}score`);
+    localStorage.removeItem(`${SET_KEY}last_question`);
     score = 0;
     currentQuestion = 1;
     displayQuestion(currentQuestion);
   }
 }
 
-// Resume banner feature
+// ✅ Use existing HTML <div id="resume-banner"> instead of injecting a new one
 function showResumeBanner(savedQ) {
-  const banner = document.createElement('div');
-  banner.className = 'resume-banner';
+  const banner = document.getElementById('resume-banner');
+  if (!banner) return;
+
+  banner.style.display = 'block';
   banner.innerHTML = `
-    <span>You last viewed Question ${savedQ}. <button id="resume-btn">Resume</button></span>
-    <button id="close-banner" style="margin-left:auto;">✕</button>
+    Resumed from your last session at Question ${savedQ}.
+    <span class="close-btn" onclick="dismissResumeBanner()">×</span>
   `;
-  document.body.prepend(banner);
+}
 
-  document.getElementById('resume-btn').onclick = () => {
-    currentQuestion = savedQ;
-    displayQuestion(currentQuestion);
-    banner.remove();
-  };
-
-  document.getElementById('close-banner').onclick = () => {
-    banner.remove();
-  };
+// ✅ Close banner handler
+function dismissResumeBanner() {
+  const banner = document.getElementById('resume-banner');
+  if (banner) {
+    banner.style.display = 'none';
+  }
 }
