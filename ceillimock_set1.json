@@ -118,7 +118,7 @@
       "C": "II and III",
       "D": "I, II, III and IV"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 12,
@@ -129,7 +129,7 @@
       "C": "I and III",
       "D": "II and IV"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 13,
@@ -140,7 +140,7 @@
       "C": "The usual sum assured is 25 per cent above the single premium outlay and may be lowered to 5 per cent above the premium for older age groups, i.e. RM125,000 for SP of RM100,000, RM105,000 for senior ages with the same premium",
       "D": "Once the account value exceeds the basic sum assured, the death benefit will be the account value, not inclusive of the sum assured"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 14,
@@ -151,7 +151,7 @@
       "C": "RM205,000",
       "D": "RM210,000"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 15,
@@ -162,7 +162,7 @@
       "C": "II and IV",
       "D": "II, III and IV"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 16,
@@ -173,7 +173,7 @@
       "C": "II and III",
       "D": "IV"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 17,
@@ -184,7 +184,7 @@
       "C": "II and IV",
       "D": "I, II and III"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 18,
@@ -195,7 +195,7 @@
       "C": "II, III and IV",
       "D": "I, III and IV"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 19,
@@ -206,7 +206,7 @@
       "C": "I and III",
       "D": "I, II, III and IV"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 20,
@@ -217,118 +217,118 @@
       "C": "The account value plus terminal/ maturity bonus",
       "D": "The basic sum assured and the account value plus terminal/maturity bonus"
     },
-    "answer": ""
+    "answer": "B"
   },
-    {
-        "questionNumber": 21,
-        "question": "Rahim is a very cautious investor. He wants steady income and to safe-guard his principal amount invested. Where would you suggest he puts his money?\nI. Government, Corporate and Sukuk Bonds\nII. Fixed income instruments\nIII. Cash funds\nIV. Specialized funds",
-        "options": {
-            "A": "I, II and IV",
-            "B": "II,III and IV",
-            "C": "I,II and III",
-            "D": "I,III and IV"
-        },
-        "answer": "C"
+  {
+    "questionNumber": 21,
+    "question": "What are two similarities between a regular premium investment-linked plan and a whole life participating plan?\nI. Both plans provide lifetime coverage up to maximum age 100\nII. Both plans allow the addition of riders without additional premium\nIII. Both are entitled to the same income tax relief treatment for premiums paid\nIV. The minimum age for an individual to apply on own life, and not as juvenile application arrangement, is age 16 for both products",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "I and III",
+      "D": "I, II, III and IV"
     },
-    {
-        "questionNumber": 22,
-        "question": "Chee Seng wants to have a specific amount of money in 10 years. He is not averse to risk. He wants your suggestion. Where can he put his money?\nI. In a unit trust and investment-linked product that is heavy into equities\nII. In a fund that specifically targets on high growth\nIII. In a fund that is mainly invested in government securities\nIV. In a bank deposit and cash fund",
-        "options": {
-            "A": "I,II and III",
-            "B": "I and II",
-            "C": "I,III and IV",
-            "D": "III and IV"
-        },
-        "answer": "B"
+    "answer": "C"
+  },
+  {
+    "questionNumber": 22,
+    "question": "Which of the following statements are correct?\nI. The minimum age for applying a regular investment-linked policy on own life is age 18 last birthday\nII. A minor aged 16 last birthday who is applying for an investment-linked policy on own life needs parental consent.\nIII. A minor aged 16 last birthday can apply for a whole life participating policy without parental consent.\nIV. Minors aged 10 to 15 last birthday can apply for a whole life participating policy with parental consent.",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I, II and III",
+      "C": "I and III",
+      "D": "I, III and IV"
     },
-    {
-        "questionNumber": 23,
-        "question": "Which of the following statement is FALSE?",
-        "options": {
-            "A": "Bond funds can be found in the private sector",
-            "B": "Bond funds can be found in the public sector",
-            "C": "Bond funds are also called “fixed income funds”",
-            "D": "None of the above"
-        },
-        "answer": "D"
+    "answer": "D"
+  },
+  {
+    "questionNumber": 23,
+    "question": "As the sales illustration document printed by any life insurer is meant for reference and view by a prospect, a sales intermediary is expected to observe certain rules. The sales intermediary must:\nI. Get the new policy owner to sign the illustration as acknowledgement of having understood the contents\nII. Get the new policy owner to sign the policy disclosure sheet and also to sign it by himself to declare that proper presentation has been carried out and the non-guaranteed elements have been explained\nIII. Highlight that all investment risks are borne by the policy owner, that all fees and charges may be changed by the insurer giving 3 months’ notice, and that the cost of insurance increases with attained age\nIV. Explain that the projected returns may be deemed likely returns of the selected funds based on the past 5 years’ historical performance",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I, II and III",
+      "C": "I, III and IV",
+      "D": "I and III"
     },
-    {
-        "questionNumber": 24,
-        "question": "Generally people will choose between investing in assets that generate:\nI. Regular income\nII. Irregular income\nIII. Unpredictable gains or income\nIV. Capital gains",
-        "options": {
-            "A": "I and II",
-            "B": "II and III",
-            "C": "I and IV",
-            "D": "III and IV"
-        },
-        "answer": "C"
+    "answer": "B"
+  },
+  {
+    "questionNumber": 24,
+    "question": "Which of the following statements regarding a life insurer’s sales illustration/quotation document are correct?\nI. The projection of future returns is based on the past 5 years’ performance experience of a specific fund or funds proposed to the prospect\nII. Projected returns are based on assumed rates for the high and low scenarios of the specific fund/s\nIII. Normally, the actual historical returns of the various offered funds in the past 5 years are also shown for the purpose of transparency\nIV. Projection of values is based on assumed rates of return up to 20 years",
+    "options": {
+      "A": "I and III",
+      "B": "II, III and IV",
+      "C": "I, III and IV",
+      "D": "II and III"
     },
-    {
-        "questionNumber": 25,
-        "question": "Top-ups are allowed in investment-linked policies. What happens to the total premium paid under the top-up?",
-        "options": {
-            "A": "The company converts the total top-up premium and accumulates it into the existing account",
-            "B": "The company opens a new account and deposits the converted top-up units into this account",
-            "C": "The company deposits the top-up premium into the existing account and levies all charges as per the original policy",
-            "D": "The company will use the top-up premium minus the top-up charges and deposit the units into the policy owner’s account"
-        },
-        "answer": "D"
+    "answer": "D"
+  },
+  {
+    "questionNumber": 25,
+    "question": "An example of investment in money markets is:",
+    "options": {
+      "A": "5-Year Bond",
+      "B": "Currencies and Forex",
+      "C": "Treasury Bills",
+      "D": "Savings account"
     },
-    {
-        "questionNumber": 26,
-        "question": "A company can use the following methods in an investment-linked policies death claim payout:\nI. Upon a Death claim being submitted, the company will pay only the claim based on the total unit accumulation multiplied by the unit price\nII. Upon a Death claim being submitted, the company will pay the face amount of the initial death coverage irrespective of unit accumulations\nIII. Upon a Death claim being submitted, the company will pay the unit value plus the sum assured\nIV. Upon a death claim being submitted, the company will pay only the unit value plus the sum assured and any top-up amounts separately",
-        "options": {
-            "A": "I, II and III",
-            "B": "I,II and IV",
-            "C": "I,III and IV",
-            "D": "I,II,III and IV"
-        },
-        "answer": "A"
+    "answer": "C"
+  },
+  {
+    "questionNumber": 26,
+    "question": "People generally want to invest:\nI. To lead a comfortable lifestyle\nII. To be comfortable during retirement\nIII. To amass great wealth\nIV. To provide adequate funding for their children’s education and their upbringing",
+    "options": {
+      "A": "II, III and IV",
+      "B": "I, II and III",
+      "C": "I, II and IV",
+      "D": "II, III and IV"
     },
-    {
-        "questionNumber": 27,
-        "question": "In a regular premium investment-linked policy, the policy holder can do the following EXCEPT:",
-        "options": {
-            "A": "Have a premium holiday if there are sufficient funds in the policy",
-            "B": "Increase or decrease his sum assured according to his present needs",
-            "C": "Increase his premium payments with regular premium top-ups and single top-ups",
-            "D": "Have his cover cancelled and only ensure his premiums are used for investments"
-        },
-        "answer": "D"
+    "answer": "C"
+  },
+  {
+    "questionNumber": 27,
+    "question": "Which statement below explains what a simple (current) net worth analysis involves?",
+    "options": {
+      "A": "The forecast of a person’s future net wealth and financial status (e.g. middle income, upper middle income, etc.)",
+      "B": "A calculation of the sum of assets in current monetary terms that a person presently owns, not including any future inheritance",
+      "C": "The total sum of all assets owned by a person in present value minus the existing total sum of all liabilities he is obliged to settle. The balance, if any, is his present net worth to his family in the event of his early demise",
+      "D": "A personal plan outlining the targets for values of current and future assets to be achieved at a certain time in the future"
     },
-    {
-        "questionNumber": 28,
-        "question": "The benefits of an investment-linked policy are as follows:\nI. The ability of the company to pool and diversify\nII. The flexibility it offers\nIII. The minimal charges levied on the policy\nIV. The insulation of market risks by the company for the client",
-        "options": {
-            "A": "I,II",
-            "B": "II,IV",
-            "C": "I,III",
-            "D": "III,IV"
-        },
-        "answer": "A"
+    "answer": "C"
+  },
+  {
+    "questionNumber": 28,
+    "question": "The main purpose of an agent conducting a risk profile on his potential client is:",
+    "options": {
+      "A": "To assess whether the potential client is willing to use a major portion of his savings or liquid assets to purchase a large investment-linked plan",
+      "B": "To help the potential client understand his own risk profile, i.e. whether he has conservative, aggressive or balanced risk characteristics, and also to consider the type of asset categories suitable for his profile",
+      "C": "To assess whether the potential client will be attracted to the product/s being offered",
+      "D": "To assess whether the potential client is willing to forego some of his existing liquid assets in order to buy an investment-linked product"
     },
-    {
-        "questionNumber": 29,
-        "question": "The flexibility offered by the investment-linked policy includes the following:\nI. Policy owner can ascertain the level of premium that needs to be paid.\nII. Policy owner can decide to add single or multiple top-ups.\nIII. Policy owner is subjected to a definite amount of premium payment that is non-negotiable.\nIV. Company will not charge any fees for premium holidays taken.",
-        "options": {
-            "A": "I and IV",
-            "B": "I and III",
-            "C": "I",
-            "D": "I and II"
-        },
-        "answer": "D"
+    "answer": "B"
+  },
+  {
+    "questionNumber": 29,
+    "question": "Which of the statements below are true?\nI. A person’s investment horizon is the length of time that he is prepared to hold a particular asset before he liquidates it\nII. The investment horizon of an individual, among other factors, also depends when he needs liquidity in the future date for specific objective/s\nIII. The cost or penalty that an investor has to pay in the event he needs to liquidate the asset earlier than expected also has a bearing on his choice of investment horizon\nIV. It is pertinent for an agent to strike a clear understanding with a potential client as to how much the latter is willing to set aside or commit for acquiring an asset",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I, II and III",
+      "C": "II, III and IV",
+      "D": "I, II and IV"
     },
-    {
-        "questionNumber": 30,
-        "question": "The disadvantages found in an investment-linked policy are:\nI. It is subjected to the smoothening process of the company\nII. It is subjected to no charges if the company does not make any investment returns\nIII. It is subjected to fixed charges specified in the policy document\nIV. It is subjected to the vagaries of the stock market",
-        "options": {
-            "A": "I and III",
-            "B": "I and II",
-            "C": "II and IV",
-            "D": "III and IV"
-        },
-        "answer": "D"
+    "answer": "A"
+  },
+  {
+    "questionNumber": 30,
+    "question": "Which of the following statements is correct?",
+    "options": {
+      "A": "Diversification means spreading out investment in different asset categories or fund types",
+      "B": "Diversification not only means spreading out investment in different asset categories or fund types, but also acquiring various assets of the same category or fund type",
+      "C": "Investment-linked funds in Malaysia confine the investment diversification to assets in the country as a way of discouraging the outflow of funds",
+      "D": "When the stock market shows signs of going up, an investor should give key focus to leverage the market trend and switch all fixed income or bond assets to equities"
     },
+    "answer": "B"
+  },
     {
         "questionNumber": 31,
         "question": "Cash values that use investment vehicles are not immune to risk. This means that the value of the cash value account can increase and decrease depending on the performance of the market. Individuals who use earnings from the cash value account may need to pay more out-of-pocket from premium payments when investments are performing poorly. Individuals are also not permitted to withdraw funds from the cash value while the policy is in force. What can be learned from the passage above?",
